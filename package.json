@@ -1,0 +1,19 @@
+{
+  "name": "ionic-datetime-default",
+  "version": "1.0.0",
+  "description": "Adds the ability to pass a default value to the picker on the Ionic DateTime component",
+  "main": "datetime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrcrabbe/ionic-datetime-default.git"
+  },
+  "author": "Nathan Crabbe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nrcrabbe/ionic-datetime-default/issues"
+  },
+  "homepage": "https://github.com/nrcrabbe/ionic-datetime-default#readme"
+}
