@@ -16,7 +16,7 @@ import { Form } from 'ionic-angular/util/form';
 import { BaseInput } from 'ionic-angular/util/base-input';
 import { Item } from 'ionic-angular/components/item/item';
 import { deepCopy, isBlank, isPresent, isArray, isObject, isString, clamp } from 'ionic-angular/util/util';
-import { dateValueRange, renderDateTime, renderTextFormat, convertDataToISO, convertFormatToKey, getValueFromFormat, parseTemplate, parseDate, updateDate, daysInMonth, dateSortValue, dateDataSortValue } from '../../util/datetime-util';
+import { dateValueRange, renderDateTime, renderTextFormat, convertDataToISO, convertFormatToKey, getValueFromFormat, parseTemplate, parseDate, updateDate, daysInMonth, dateSortValue, dateDataSortValue } from 'ionic-angular/util/datetime-util';
 /**
  * \@name DateTime
  * \@description
