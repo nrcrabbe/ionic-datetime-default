@@ -2,7 +2,7 @@
   "name": "ionic-datetime-default",
   "version": "1.0.0",
   "description": "Adds the ability to pass a default value to the picker on the Ionic DateTime component",
-  "main": "datetime.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
