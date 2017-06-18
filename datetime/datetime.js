@@ -10,12 +10,12 @@ var __extends = (this && this.__extends) || (function () {
 })();
 import { Component, ElementRef, EventEmitter, HostListener, Input, Optional, Output, Renderer, ViewEncapsulation } from '@angular/core';
 import { NG_VALUE_ACCESSOR } from '@angular/forms';
-import { Config } from '../../config/config';
-import { PickerController } from '../picker/picker-controller';
-import { Form } from '../../util/form';
-import { BaseInput } from '../../util/base-input';
-import { Item } from '../item/item';
-import { deepCopy, isBlank, isPresent, isArray, isObject, isString, clamp } from '../../util/util';
+import { Config } from 'ionic-angular/config/config';
+import { PickerController } from 'ionic-angular/components/picker/picker-controller';
+import { Form } from 'ionic-angular/util/form';
+import { BaseInput } from 'ionic-angular/util/base-input';
+import { Item } from 'ionic-angular/components/item/item';
+import { deepCopy, isBlank, isPresent, isArray, isObject, isString, clamp } from 'ionic-angular/util/util';
 import { dateValueRange, renderDateTime, renderTextFormat, convertDataToISO, convertFormatToKey, getValueFromFormat, parseTemplate, parseDate, updateDate, daysInMonth, dateSortValue, dateDataSortValue } from '../../util/datetime-util';
 /**
  * \@name DateTime
