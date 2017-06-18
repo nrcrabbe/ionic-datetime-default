@@ -1,1 +1,1 @@
-export { DateTime } from './datetime';
+exports.DateTime = require('./datetime').DateTime;
