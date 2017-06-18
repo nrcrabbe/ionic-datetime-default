@@ -1,4 +1,4 @@
-@import "../../themes/ionic.globals.wp";
+@import "../../../ionic-angular/themes/ionic.globals.wp";
 
 // Windows DateTime
 // --------------------------------------------------
@@ -54,4 +54,3 @@ $datetime-wp-placeholder-color:   $input-wp-border-color !default;
 .datetime-wp .datetime-placeholder {
   color: $datetime-wp-placeholder-color;
 }
-
